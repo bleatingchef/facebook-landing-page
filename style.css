@@ -1,0 +1,40 @@
+.row{
+    margin-top: 200px;
+} 
+h1{
+    font-size: 70px ;
+    color: #1877F2;
+}
+.about{
+    font-size: x-large;
+}
+body{
+    background-color: whitesmoke;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+    display: block;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+a{
+    display: block;
+}
+.btn-success{
+    display: block !important;
+    margin-left: 70px;
+
+}
+.last{
+    margin-top: 15px;
+    text-align: center;
+    font-size: smaller;
+}
